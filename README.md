@@ -7,9 +7,11 @@
   <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davi-leonardi1&layout=compact&hide_border=true&title_color=f75f00&text_color=f75f00&bg_color=0d1117" />
 </div>
 
-<div align="center">  
-<a href="https://www.instagram.com/professor.alvarez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/davi-leonardi-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 <hr>
  
